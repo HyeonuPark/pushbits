@@ -1,0 +1,13 @@
+[package]
+name = "pushbits"
+version = "0.1.0"
+authors = ["Hyeonu Park <nemo1275@gmail.com>"]
+license = "MIT OR Apache-2.0"
+description = "Push and pop the bit-packed fields"
+repository = "https://github.com/HyeonuPark/pushbits"
+documentation = "https://docs.rs/pushbits"
+keywords = ["bit", "protocol", "parser"]
+readme = "README.md"
+edition = "2018"
+
+[dependencies]
